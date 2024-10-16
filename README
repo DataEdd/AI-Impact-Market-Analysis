@@ -21,7 +21,3 @@ This project, part of the STA141A course at UC Davis, explores whether certain j
 ![Confusion Matrix](results/confusion_matrix.png)
 
 ## How to Run the Code
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI-Automation-Risk-Analysis.git
-   cd AI-Automation-Risk-Analysis
