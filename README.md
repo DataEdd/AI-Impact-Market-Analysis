@@ -12,7 +12,7 @@ This project, part of the STA141A course at UC Davis, explores whether certain j
 - KNN model achieved **86.58% accuracy**.
 
 ## Project Structure
-- **Data Summary and Exploratory Analysis**: [See notebook](notebook/notebook.ipynb)
+- **Data Summary and Exploratory Analysis**: [See notebook](main/notebook.ipynb)
 - **Modeling**: KNN classification with optimized `k` values and evaluation metrics.
 - **Results**: Confidence intervals for salary, confusion matrices, and Chi-Square test outcomes.
 
